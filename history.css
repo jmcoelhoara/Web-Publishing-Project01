@@ -1,0 +1,41 @@
+
+
+body{min-height: 100vh;
+    background:url(https://4kwallpapers.com/images/wallpapers/porsche-911-turbo-s-black-background-amoled-pitch-black-3840x2160-7730.jpg) no-repeat;
+    background-size: cover;
+    background-position: center;}
+
+.table{ text-align: left;}
+
+img{ border: 2px solid rgb(193, 51, 51);}
+
+.color{color: white;
+text-justify: distribute-all-lines;}
+
+.oldpicture{ height: 300; width: 450;}
+
+.ferdinand{ height: 300; width: 450;}
+
+.beetle{ height: 300; width: 450;}
+
+body {font-family: Arial, sans-serif;
+    line-height: 1.6;}
+
+header {background: #000;
+    color: #fff;
+    padding: 1rem 0;}
+
+nav ul {list-style: none;
+    display: flex;
+    justify-content: center;}
+
+nav ul li {margin: 0 1rem;}
+
+nav ul li a {color: #fff;
+    text-decoration: none;
+    font-weight: bold;}
+
+nav ul li a:hover {color: #f60;}
+
+
+
